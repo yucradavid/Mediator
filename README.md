@@ -1,7 +1,8 @@
 
 # Mediator
 Exposición de mediator del grupo 2 - ciclo 2 presentado por David Robert Yucra Mamani.
-
+# Link
+Me guie de este video para poder entender mi tema > https://www.youtube.com/watch?v=Jzho6USq4uo
 # Codigo Utilizado
 
 # Main.java:
